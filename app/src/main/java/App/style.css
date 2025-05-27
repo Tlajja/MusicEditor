@@ -1,0 +1,60 @@
+/**
+ * CSS stylesheet for the Music Composition Editor JavaFX application.
+ *
+ * Defines styles for the root pane, status label, list views, combo boxes, buttons,
+ * labels, and text fields to ensure a consistent and visually appealing UI.
+ *
+ * @author Eigintas Urbanavičius
+ */
+.root {
+    -fx-font-family: "Arial";
+    -fx-background-color: #f4f4f4;
+}
+
+/** Styles for the status label. */
+#status-label {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+}
+
+/** Styles for list views. */
+#list-view {
+    -fx-background-color: white;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5px;
+    -fx-padding: 5px;
+}
+
+/** Styles for combo boxes. */
+#editor-combo {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5px;
+}
+
+/** Styles for buttons. */
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-border-radius: 5px;
+    -fx-padding: 5px 15px;
+}
+
+/** Styles for buttons on hover. */
+.button:hover {
+    -fx-background-color: #45a049;
+}
+
+/** Styles for labels. */
+.label {
+    -fx-font-size: 14px;
+    -fx-text-fill: #333333;
+}
+
+/** Styles for text fields. */
+.text-field {
+    -fx-background-color: white;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 5px;
+    -fx-padding: 5px;
+}
