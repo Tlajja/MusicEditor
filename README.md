@@ -22,13 +22,13 @@
 1. Klonuokite saugyklą:
 
 ```
-git clone https://github.com/Tlajja/MuzikosRedaktorius.git
+git clone https://github.com/Tlajja/MusicEditor.git
 ```
 
 2. Eikite į projekto saugyklą:
 
 ```
-cd MuzikosRedaktorius
+cd MusicEditor
 ```
 
 3. Sukurkite projektą:
